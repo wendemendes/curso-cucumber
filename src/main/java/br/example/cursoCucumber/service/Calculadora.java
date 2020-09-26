@@ -1,4 +1,4 @@
-package br.example.service;
+package br.example.cursoCucumber.service;
 
 public class Calculadora {
 

@@ -11,6 +11,6 @@ import io.cucumber.junit.CucumberOptions;
     glue = "br.example.cursoCucumber.steps.transformedata",
     monochrome = true,
     snippets = CucumberOptions.SnippetType.CAMELCASE)
-public class RunnerTransformer {
+public class RunnerTransformerTest {
 
 }

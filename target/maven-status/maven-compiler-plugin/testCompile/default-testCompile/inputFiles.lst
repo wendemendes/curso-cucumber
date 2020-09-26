@@ -1,7 +1,9 @@
+/home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/runners/RunnerAprenderTest.java
+/home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/runners/RunnerLocadoraTest.java
 /home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/steps/transformedata/TransformeDataSteps.java
 /home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/steps/transformedata/Converter.java
+/home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/steps/locadora/LocadoraSteps.java
 /home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/steps/passagem/PassagemSteps.java
+/home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/runners/RunnerTransformerTest.java
 /home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/steps/aprender/AprenderCucumberSteps.java
-/home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/runners/RunnerTransformer.java
-/home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/runners/RunnerAprender.java
-/home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/runners/RunnerPassagens.java
+/home/wendemendes/workspace/cursoCucumber/src/test/java/br/example/cursoCucumber/runners/RunnerPassagensTest.java

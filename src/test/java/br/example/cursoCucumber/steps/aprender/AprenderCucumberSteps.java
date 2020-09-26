@@ -2,7 +2,7 @@ package br.example.cursoCucumber.steps.aprender;
 
 import java.time.LocalDate;
 
-import br.example.service.Calculadora;
+import br.example.cursoCucumber.service.Calculadora;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

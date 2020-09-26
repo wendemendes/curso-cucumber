@@ -1,1 +1,5 @@
-/home/wendemendes/workspace/cursoCucumber/src/main/java/br/example/service/Calculadora.java
+/home/wendemendes/workspace/cursoCucumber/src/main/java/br/example/cursoCucumber/locadora/TipoAluguel.java
+/home/wendemendes/workspace/cursoCucumber/src/main/java/br/example/cursoCucumber/locadora/model/Filme.java
+/home/wendemendes/workspace/cursoCucumber/src/main/java/br/example/cursoCucumber/locadora/service/AluguelService.java
+/home/wendemendes/workspace/cursoCucumber/src/main/java/br/example/cursoCucumber/service/Calculadora.java
+/home/wendemendes/workspace/cursoCucumber/src/main/java/br/example/cursoCucumber/locadora/model/NotaAluguel.java
